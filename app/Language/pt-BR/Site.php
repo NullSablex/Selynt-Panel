@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'as' => 'às',
+    'sair' => 'Sair',
+    'entrar' => 'Entrar',
+    'perfil' => 'Perfil',
+    'senha' => 'Senha',
+    'usuario' => 'Usuário',
+    'conta' => 'Conta',
+    'selecione_um_idioma' => 'Selecione um idioma',
+    'seu_painel_sera...' => 'Seu painel será exibido neste dispositivo no idioma escolhido.',
+    'informacoes_basicas_da...' => 'Informações básicas da sua conta e imagem de perfil.',
+    'dados_da_conta' => 'Dados da conta',
+    'identidade' => 'Identidade',
+    'salvar_alteracoes' => 'Salvar alterações',
+    'visual' => 'Visual',
+    'imagem_de_perfil' => 'Imagem de perfil',
+    'email'=> 'Email',
+    'escolha_de_avatar' => 'Escolha de avatar',
+    'nome_de_usuario' => 'Nome de usuário',
+    'como_voce_e_chamado' => 'Como você é chamado',
+    'dados_vinculados_a_sua...' => 'Dados vinculados à sua conta de acesso.',
+    'alteracoes_em_nome_so...' => 'Alterações em nome, e-mail ou senha podem ser feitas na área de segurança (quando disponível nas configurações da conta).',
+    'selecione_um_dos_avatares' => 'Selecione um dos avatares disponíveis para representar seu perfil.',
+    'as_imagens_sao_predefinidas...' => 'As imagens são pré-definidas e não expõem dados pessoais.',
+    'configuracoes' => 'Configurações',
+];

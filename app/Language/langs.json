@@ -1,0 +1,16 @@
+{
+    "pt-BR": {
+        "name": "Português (Brasil)",
+        "order": 1,
+        "status": true,
+        "flag": "br",
+        "hash": "72b32a1f754ba1c09b3695e0cb6cde7f"
+    },
+    "en": {
+        "name": "English",
+        "order": 2,
+        "status": true,
+        "flag": "us",
+        "hash": "81dc9bdb52d04dc20036dbd8313ed055"
+    }
+}

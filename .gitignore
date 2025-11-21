@@ -1,0 +1,4 @@
+.env
+writable/logs/*.log
+writable/session/ci_session*
+writable/debugbar/

@@ -1,0 +1,72 @@
+#--------------------------------------------------------------------
+# Example Environment Configuration file
+#
+# This file can be used as a starting point for your own
+# custom .env files, and contains most of the possible settings
+# available in a default install.
+#
+# By default, all of the settings are commented out. If you want
+# to override the setting, you must un-comment it by removing the '#'
+# at the beginning of the line.
+#--------------------------------------------------------------------
+
+#--------------------------------------------------------------------
+# ENVIRONMENT
+#--------------------------------------------------------------------
+
+# CI_ENVIRONMENT = production
+
+#--------------------------------------------------------------------
+# APP
+#--------------------------------------------------------------------
+
+# app.baseURL = 'http://localhost'
+# app.defaultLocale = pt-BR
+# app.negotiateLocale = true
+# app.appTimezone = UTC
+
+# If you have trouble with `.`, you could also use `_`.
+# app_baseURL = ''
+# app_defaultLocale = pt-BR
+# app_negotiateLocale = true
+
+#--------------------------------------------------------------------
+# EMAIL
+#--------------------------------------------------------------------
+
+# email.fromEmail = no-reply@server.com
+# email.fromName  = 'Selynt Panel'
+# email.SMTPHost = mail.server.com
+# email.protocol = smtp
+# email.SMTPPort = 587
+# email.SMTPUser = no-reply@server.com
+# email.SMTPPass = 
+# email.SMTPCrypto = tls
+
+#--------------------------------------------------------------------
+# SECURITY
+#--------------------------------------------------------------------
+
+# security.csrfProtection = session
+# security.tokenRandomize = true
+# security.tokenName = csrf_secure
+# security.regenerate = true
+
+#--------------------------------------------------------------------
+# SESSION
+#--------------------------------------------------------------------
+
+# session.driver = 'CodeIgniter\Session\Handlers\FileHandler'
+# session.expiration = 7200
+
+#--------------------------------------------------------------------
+# LOGGER
+#--------------------------------------------------------------------
+
+# logger.threshold = 4
+
+#--------------------------------------------------------------------
+# INSTALLER
+#--------------------------------------------------------------------
+
+# installer.status = true
