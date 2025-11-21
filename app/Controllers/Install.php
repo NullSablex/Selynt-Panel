@@ -37,6 +37,7 @@ class Install extends Controller
             'pdo',
             'sqlite3',
             'pdo_sqlite',
+            'shell_exec'
         ];
 
         $extensions      = [];

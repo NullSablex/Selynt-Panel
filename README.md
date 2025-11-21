@@ -83,6 +83,7 @@ O **Selynt Panel** é um painel de controle web para gerenciamento de processos,
   - `curl`
   - `pdo`
   - `sqlite3` / `pdo_sqlite`
+  - `shell_exec`
 - [PM2](https://pm2.keymetrics.io/) instalado globalmente
 - Node.js (para aplicações Node)
 
